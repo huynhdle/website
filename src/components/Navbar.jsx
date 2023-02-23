@@ -3,7 +3,7 @@ import DH from './images/DH.png';
 
 const Navbar = () => {
   return (
-    <div className='bg-deepslate-900 text-white p-8 px-60 text-base font-akira rounded-b-3xl'>
+    <div className='bg-deepslate-900 text-white p-8 px-12 text-base font-akira rounded-b-3xl'>
       <div className='flex items-center justify-between'>
         <div className='flex-1 text-left space-x-12 flex'>
           <h1 className='text-white'>HOME</h1>
