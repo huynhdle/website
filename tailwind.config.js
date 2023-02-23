@@ -11,6 +11,8 @@ module.exports = {
         'deepslate-800': '#28292C',
         'deepslate-700': '#303134',
         'deepslate-600': '#5F6269',
+        'deepslate-500': '#8E959B',
+        'deepslate-400': '#C5CDD4',
       },
       fontFamily: {
         'poppins':['Poppins', 'sans-serif'],
