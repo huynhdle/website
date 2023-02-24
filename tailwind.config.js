@@ -15,8 +15,8 @@ module.exports = {
         'deepslate-400': '#C5CDD4',
       },
       fontFamily: {
-        'poppins':['Poppins', 'sans-serif'],
         'akira':['Akira Expanded', 'sans-serif'],
+                                                
       }
     },
   },
