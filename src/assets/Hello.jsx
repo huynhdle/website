@@ -8,7 +8,7 @@ const Hello = () => {
                 <div className='flex flex-col justify-left space-y-4'>
                     <h1 className='text-2xl'> HI, MY NAME IS</h1>
                     <h1 className='text-7xl'> DANIEL HUYNH</h1>
-                    <h1 className='font-poppins text-deepslate-400 text-lg pt-4'> I AM CURRENTLY A COMPUTER SCIENCE STUDENT BASED IN SYDNEY WHO IS ASPIRING TO BE A UNICORN DEVELOPER! IN SAYING THIS, I AM LOOKING TO PURSUE A CAREER IN PRODUCT DESIGN AND FRONT-END DEVELOPMENT.</h1>
+                    <h1 className='font-poppins text-deepslate-400 text-xl pt-4'> I AM CURRENTLY A COMPUTER SCIENCE STUDENT BASED IN SYDNEY WHO IS ASPIRING TO BE A UNICORN DEVELOPER! IN SAYING THIS, I AM LOOKING TO PURSUE A CAREER IN PRODUCT DESIGN AND FRONT-END DEVELOPMENT.</h1>
                 </div>
 				<div className='flex items-end absolute bottom-0 right-24 w-[525px] justify-end overflow-visible'>
 					<img src={DHPortrait} alt='Daniel Huynh MeMoji Portrait'/>
