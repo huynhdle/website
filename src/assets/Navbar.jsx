@@ -7,9 +7,9 @@ const Navbar = () => {
       <div className='w-9/12 py-8 grid grid-cols-3 items-center'>
         <div className='flex flex-row justify-left space-x-12'>
           <h1 className='text-white text-center'>Home</h1>
-          <h1 className='text-deepslate-600 text-center hover:text-white duration-200'>ABOUT ME</h1>
-          <h1 className='text-deepslate-600 text-center hover:text-white duration-200'>PROJECTS</h1>
-          <h1 className='text-deepslate-600 text-center hover:text-white duration-200'>EXPERIENCE</h1>
+          <h1 className='text-deepslate-500 text-center hover:text-white duration-200'>ABOUT ME</h1>
+          <h1 className='text-deepslate-500 text-center hover:text-white duration-200'>PROJECTS</h1>
+          <h1 className='text-deepslate-500 text-center hover:text-white duration-200'>EXPERIENCE</h1>
         </div>
         <div className='flex justify-center'>
           <img src={DH} alt='DH Logo'/>

@@ -6,7 +6,7 @@ import DHLaptop from '../images/DHLaptop.png';
 
 const Footer = () => {
   return (
-	<div className='pt-24'>
+	<div className='pt-32'>
 		<div className={'flex justify-center text-base font-akira rounded-t-[40px] bg-deepslate-900 text-white'}>
 			<div className='relative w-9/12 grid grid-cols-3 items-center h-[200px]'>
 				<div className='flex justify-left items-center'>
